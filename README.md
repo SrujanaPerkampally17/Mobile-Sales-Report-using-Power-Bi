@@ -19,6 +19,8 @@ This repository showcases an interactive Power BI dashboard for analyzing mobile
 2. MTD (Month-to-Date) Report – Sales trends segmented by year, quarter, month, and day.
 3. Same Period Last Year Report – Side-by-side sales comparison with the previous year.
 
+![Image](https://github.com/user-attachments/assets/d3efc148-ac45-444d-86bd-53d01e9a855e)
+
 🔍 Why This Matters
 
 - Forecasting & Decision Making: Monthly & quarterly trends help in predicting future sales.
