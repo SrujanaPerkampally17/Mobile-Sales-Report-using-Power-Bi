@@ -32,6 +32,10 @@ This repository showcases an interactive Power BI dashboard for analyzing mobile
 2. Navigate through the different report pages to explore mobile sales trends.
 3. Apply filters to analyze specific brands, models, or payment methods.
 
+TO ACESS IT :
+
+https://app.powerbi.com/view?r=eyJrIjoiMTAzZmEwNzMtNDkzZS00ZTE1LWI2MzgtYjdkYWU4MzZlM2FjIiwidCI6IjZjMjliOWQyLWZlNzAtNDc0Zi1hNTE5LWJjNjA2OGM0Mzg2MCJ9
+
 🛠️ Tools & Technologies
 
 - Power BI – Advanced data visualization & analytics.
